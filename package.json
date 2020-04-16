@@ -1,0 +1,31 @@
+{
+  "name": "followapp",
+  "version": "0.0.1",
+  "description": "A Web and Mobile Based Church Members Monitoring Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danyelmonterde/FollowApp.git"
+  },
+  "keywords": [
+    "follow",
+    "app",
+    "Jesus",
+    "Is",
+    "Lord",
+    "Church",
+    "Lagro"
+  ],
+  "author": "Daniel Monterde",
+  "license": "SEE LICENSE IN Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/danyelmonterde/FollowApp/issues"
+  },
+  "homepage": "https://github.com/danyelmonterde/FollowApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
